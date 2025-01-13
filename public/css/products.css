@@ -1,0 +1,359 @@
+/* Estilos Globais */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #f5f5f5; /* Fundo neutro para destacar os elementos */
+  color: #333; /* Texto padrão */
+}
+
+/* Header */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #df4848;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  margin-bottom: 0; /* Remove qualquer margem externa */
+}
+
+.h1Home h1 {
+  margin: 0 0 0 64px;
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+}
+
+.h1Home a {
+  text-decoration: none;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px; /* Espaçamento entre links */
+  margin: 0;
+  padding: 0;
+}
+
+nav ul:last-child {
+  margin-right: 72px;
+}
+
+nav ul:first-child {
+  margin-left: 100px;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  white-space: nowrap; /* Impede quebra de linha */
+}
+
+nav a:hover {
+  color: #ff1a1a; /* Destaque vermelho ao passar o mouse */
+  transition: color 0.3s ease;
+}
+
+/* Navegação Secundária */
+#divNav {
+  margin-top: 58px; /* Espaço para o cabeçalho fixo */
+  display: flex;
+  justify-content: center;
+  padding: 6px;
+  background-color: #414141; /* Vermelho escuro */
+  color: white;
+  font-size: 15px;
+}
+
+#divNav nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#divNav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+#divNav a:hover {
+  color: #df4848;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  transition: all 0.1s ease;
+}
+
+/* Responsividade para divNav */
+@media (max-width: 768px) {
+  #divNav {
+    flex-direction: column;
+  }
+  #divNav nav {
+    justify-content: center;
+  }
+}
+
+/* Layout Principal */
+.main-content {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: auto;
+  max-width: 1200px;
+}
+
+.filter-sidebar {
+  background: #fff; /* Branco para contraste */
+  padding: 16px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  color: #565c69;
+}
+
+.filter-group h3 {
+  margin: 0 0 12px 0;
+  font-size: 16px;
+}
+
+.filter-group label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.filter-group span {
+  font-size: 13px;
+}
+
+.filter-group input {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+}
+
+.divButtonAplicar button {
+  background: #df4848; /* Vermelho escuro */
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+.divButtonAplicar button:hover {
+  background: #ff1a1a;
+  transition: all 0.3s ease;
+}
+
+/* Grid de Produtos */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  flex: 3;
+}
+
+.product {
+  background: #fff; /* Branco para contraste */
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: auto; /* Remove altura fixa */
+  gap: 0;
+}
+
+.product img {
+  max-width: 100%;
+  border-radius: 5px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.product a {
+  text-decoration: none;
+  color: #333;
+  flex-grow: 1;
+}
+
+.product p {
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 14px; /* Fonte ajustada */
+}
+
+.product .price {
+  font-size: 19px;
+  font-weight: bold;
+  color: #007bff; /* Azul mais suave para o preço */
+  margin-top: auto; /* Mantém o preço na parte inferior */
+}
+
+.product button {
+  background: #870000; /* Vermelho escuro */
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+  align-self: flex; /* Centraliza o botão horizontalmente */
+  margin-top: 5px; /* Pequena margem entre o preço e o botão */
+}
+
+.product button:hover {
+  background: #ff1a1a; /* Vermelho brilhante */
+  transition: all 0.3s ease;
+}
+
+/* Rodapé */
+.footer {
+  text-align: center;
+  padding: 10px;
+  background: #870000; /* Vermelho escuro */
+  color: white;
+  margin-top: 20px;
+}
+
+.footer span {
+  display: inline-block;
+  padding: 5px 10px;
+  color: white;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .main-content {
+    flex-direction: column;
+  }
+  .filter-sidebar {
+    margin: 0 auto;
+    width: 100%;
+  }
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* Logo (lado esquerdo) */
+.h1Home {
+  flex: 1;
+}
+
+.h1Home h1 {
+  font-size: 24px;
+  margin: 0 0 0 32px;
+}
+
+/* Barra de pesquisa centralizada */
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  gap: 10px;
+}
+
+#search-input {
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  width: 250px;
+}
+
+#search-button {
+  background-color: #df4848;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+#search-button:hover {
+  background-color: #ff1a1a;
+  transition: background-color 0.3s ease;
+}
+
+/* Navegação (lado direito) */
+nav {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#nav-options {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-right: 100px;
+}
+
+#nav-options li {
+  margin-left: 20px;
+}
+
+#nav-options a {
+  text-decoration: none;
+  font-size: 16px;
+  justify-self: right;
+}
+
+#nav-options a:hover {
+  color: #df4848;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav {
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  .search-container {
+    margin-top: 10px;
+  }
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/496924/hd-externo-portatil-2tb-seagate-usb-3-0-stgx2000400_1719506841_m.jpg",
+        "nome": "HD Externo Seagate, 2TB, USB 3.0, Preto - STGX2000400",
+        "preco": "R$ 569,99",
+        "link": "https://www.kabum.com.br/produto/496924/hd-externo-seagate-2tb-usb-3-0-preto-stgx2000400"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/496923/hd-externo-portatil-1tb-seagate-usb-3-0-stgx1000400_1719506054_m.jpg",
+        "nome": "HD Externo Seagate, 1TB, USB 3.0, Preto - STGX1000400",
+        "preco": "R$ 309,99",
+        "link": "https://www.kabum.com.br/produto/496923/hd-externo-seagate-1tb-usb-3-0-preto-stgx1000400"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/63735/63735_1433187476_m.jpg",
+        "nome": "HD Interno WD Blue, 1TB, SATA, 3.5' - WD10EZEX",
+        "preco": "R$ 419,99",
+        "link": "https://www.kabum.com.br/produto/63735/hd-interno-wd-blue-1tb-sata-3-5-wd10ezex"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/129963/hd-externo-toshiba-2tb-canvio-ready-usb-3-0-preto-hdtp320xk3aa_1689358017_m.jpg",
+        "nome": "HD Externo Toshiba Canvio Ready, 2TB, USB 3.0, Preto - HDTP320XK3AA",
+        "preco": "R$ 539,99",
+        "link": "https://www.kabum.com.br/produto/129963/hd-externo-toshiba-canvio-ready-2tb-usb-3-0-preto-hdtp320xk3aa"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/202165/case-externa-f3-para-hd-sata-2-5-usb-3-0-ate-4tb-transparente-cs-u3t_1629746444_m.jpg",
+        "nome": "Case F3 para HD SATA 2.5, USB 3.0, Transparente - CS-U3T",
+        "preco": "R$ 34,99",
+        "link": "https://www.kabum.com.br/produto/202165/case-f3-para-hd-sata-2-5-usb-3-0-transparente-cs-u3t"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/496934/hd-externo-portatil-4tb-seagate-usb-3-0-stgx4000400_1719507105_m.jpg",
+        "nome": "HD Externo Seagate, 4TB, USB 3.0, Preto - STGX4000400",
+        "preco": "R$ 900,00",
+        "link": "https://www.kabum.com.br/produto/496934/hd-externo-seagate-4tb-usb-3-0-preto-stgx4000400"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/66405/66405_1439816331_m.jpg",
+        "nome": "HD Externo WD Elements, 1TB, USB 3.0, Preto - STEA1000400",
+        "preco": "R$ 454,99",
+        "link": "https://www.kabum.com.br/produto/66405/hd-externo-wd-elements-1tb-usb-3-0-preto-stea1000400"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/415964/hd-seagate-ironwolf-4tb-nas-3-5-sata-st4000vn006_1674649252_m.jpg",
+        "nome": "HD Seagate IronWolf, NAS, 4TB, 3.5', Cache 256MB, 5400RPM, SATA - ST4000VN006",
+        "preco": "R$ 981,99",
+        "link": "https://www.kabum.com.br/produto/415964/hd-seagate-ironwolf-nas-4tb-3-5-cache-256mb-5400rpm-sata-st4000vn006"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/544599/hd-interno-wd-black-6tb-sata-3-5-7-200rpm-wd6004fzwx_1720620988_m.jpg",
+        "nome": "HD Interno WD Black, 6TB, SATA, 3.5' - WD6004FZWX",
+        "preco": "R$ 869,99",
+        "link": "https://www.kabum.com.br/produto/544599/hd-interno-wd-black-6tb-sata-3-5-wd6004fzwx"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/95803/95803_1522867513_index_m.jpg",
+        "nome": "HD Interno Seagate BarraCuda, 4TB, SATA, 3.5' - ST4000DM004",
+        "preco": "R$ 799,99",
+        "link": "https://www.kabum.com.br/produto/95803/hd-interno-seagate-barracuda-4tb-sata-3-5-st4000dm004"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/164863/hd-wd-purple-pro-10tb-3-5-7200rpm-cache-256mb-sata-wd101purp_1633525152_m.jpg",
+        "nome": "HD Surveillance WD Purple Pro, 10TB, 7200RPM, Cache 256MB, 3.5\", SATA - WD101PURP",
+        "preco": "R$ 2.379,98",
+        "link": "https://www.kabum.com.br/produto/164863/hd-surveillance-wd-purple-pro-10tb-7200rpm-cache-256mb-3-5-sata-wd101purp"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/117870/hd-externo-portatil-western-digital-4tb-usb-3-0-preto-wdbu6y0040bbk_1598273709_m.jpg",
+        "nome": "HD Externo WD Elements, 4TB, USB 3.0, Preto - WDBU6Y0040BBK",
+        "preco": "R$ 889,98",
+        "link": "https://www.kabum.com.br/produto/117870/hd-externo-wd-elements-4tb-usb-3-0-preto-wdbu6y0040bbk"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/399152/hd-externo-5tb-wd-elements-portatil-usb-3-0-antichoque-preto-wdbu6y0050bbk-wesn_1667999814_m.jpg",
+        "nome": "HD Externo WD Elements, 5TB, USB 3.0, Preto - WDBU6Y0050BBK-WESN",
+        "preco": "R$ 999,99",
+        "link": "https://www.kabum.com.br/produto/399152/hd-externo-wd-elements-5tb-usb-3-0-preto-wdbu6y0050bbk-wesn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/381328/hd-toshiba-surveillance-s300-4tb-sata-hdkpb08z0a01s_1670526545_m.jpg",
+        "nome": "HD Toshiba Surveillance S300, 4TB, 5400 RPM, SATA - HDWT840UZSVA",
+        "preco": "R$ 729,99",
+        "link": "https://www.kabum.com.br/produto/381328/hd-toshiba-surveillance-s300-4tb-5400-rpm-sata-hdwt840uzsva"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/100916/100916_1552934430_index_m.jpg",
+        "nome": "HD Interno Seagate BarraCuda, 2TB, SATA, 3.5' - ST2000DM008",
+        "preco": "R$ 519,99",
+        "link": "https://www.kabum.com.br/produto/100916/hd-interno-seagate-barracuda-2tb-sata-3-5-st2000dm008"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/472212/hd-western-digital-purple-2tb-64mb-sata-3-wd23purz_1695294733_m.jpg",
+        "nome": "HD Surveillance WD Purple, 2TB, Cache 64MB, 3.5', SATA - WD23PURZ",
+        "preco": "R$ 544,99",
+        "link": "https://www.kabum.com.br/produto/472212/hd-surveillance-wd-purple-2tb-cache-64mb-3-5-sata-wd23purz"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/583340/hd-externo-wd-elements-6tb-usb-preto-wdbhjs0060bbk-wesn_1723467295_m.jpg",
+        "nome": "HD Externo WD Elements, 6TB, USB, Preto - WDBHJS0060BBK-WESN",
+        "preco": "R$ 1.159,99",
+        "link": "https://www.kabum.com.br/produto/583340/hd-externo-wd-elements-6tb-usb-preto-wdbhjs0060bbk-wesn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/460467/hd-wd-red-plus-6tb-5400-rpm-3-5-sata-wd60efpx_1691496512_m.jpg",
+        "nome": "HD WD Red Plus, NAS, 6TB, 3.5', Cache 256MB, 5400RPM, SATA - WD60EFPX",
+        "preco": "R$ 1.119,99",
+        "link": "https://www.kabum.com.br/produto/460467/hd-wd-red-plus-nas-6tb-3-5-cache-256mb-5400rpm-sata-wd60efpx"
+    }
+]
